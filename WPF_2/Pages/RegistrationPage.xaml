@@ -31,7 +31,7 @@
         </StackPanel>
 
         <StackPanel Style="{DynamicResource DoctorStackPanelTextBox}" Grid.Column="1">
-            <TextBox x:Name="NameTextBox">
+            <TextBox x:Name="NameTextBox" Style="{DynamicResource DoctorName}">
                 <TextBox.Text>
                     <Binding Path="DoctorName" UpdateSourceTrigger="PropertyChanged" NotifyOnValidationError="True">
                         <Binding.ValidationRules>
@@ -41,16 +41,9 @@
                     </Binding>
                 </TextBox.Text>
             </TextBox>
-            <ItemsControl ItemsSource="{Binding ElementName=NameTextBox, Path=(Validation.Errors)}" 
-                 Style="{DynamicResource Errors}" Height="20">
-                <ItemsControl.ItemTemplate>
-                    <DataTemplate>
-                        <TextBlock Text="{Binding ErrorContent}"/>
-                    </DataTemplate>
-                </ItemsControl.ItemTemplate>
-            </ItemsControl>
+            
 
-            <TextBox x:Name="SurnameTextBox">
+            <TextBox x:Name="SurnameTextBox" Style="{DynamicResource DoctorSurname}">
                 <TextBox.Text>
                     <Binding Path="DoctorSurname" UpdateSourceTrigger="PropertyChanged" NotifyOnValidationError="True">
                         <Binding.ValidationRules>
@@ -60,16 +53,9 @@
                     </Binding>
                 </TextBox.Text>
             </TextBox>
-            <ItemsControl ItemsSource="{Binding ElementName=SurnameTextBox, Path=(Validation.Errors)}" 
-                   Style="{DynamicResource Errors}" Height="19">
-                <ItemsControl.ItemTemplate>
-                    <DataTemplate>
-                        <TextBlock Text="{Binding ErrorContent}" Foreground="Red" FontSize="11" Margin="2,0"/>
-                    </DataTemplate>
-                </ItemsControl.ItemTemplate>
-            </ItemsControl>
+            
 
-            <TextBox x:Name="LastNameTextBox">
+            <TextBox x:Name="LastNameTextBox" Style="{DynamicResource DoctorLastName}">
                 <TextBox.Text>
                     <Binding Path="DoctorLastName" UpdateSourceTrigger="PropertyChanged" NotifyOnValidationError="True">
                         <Binding.ValidationRules>
@@ -79,16 +65,9 @@
                     </Binding>
                 </TextBox.Text>
             </TextBox>
-            <ItemsControl ItemsSource="{Binding ElementName=LastNameTextBox, Path=(Validation.Errors)}" 
-                  Style="{DynamicResource Errors}" Height="19">
-                <ItemsControl.ItemTemplate>
-                    <DataTemplate>
-                        <TextBlock Text="{Binding ErrorContent}" Foreground="Red" FontSize="11" Margin="2,0"/>
-                    </DataTemplate>
-                </ItemsControl.ItemTemplate>
-            </ItemsControl>
+            
 
-            <TextBox x:Name="SpecialityTextBox">
+            <TextBox x:Name="SpecialityTextBox" Style="{DynamicResource DoctorSpeciality}">
                 <TextBox.Text>
                     <Binding Path="DoctorSpeciality" UpdateSourceTrigger="PropertyChanged" NotifyOnValidationError="True">
                         <Binding.ValidationRules>
@@ -98,16 +77,9 @@
                     </Binding>
                 </TextBox.Text>
             </TextBox>
-            <ItemsControl ItemsSource="{Binding ElementName=SpecialityTextBox, Path=(Validation.Errors)}" 
-                  Style="{DynamicResource Errors}" Height="37">
-                <ItemsControl.ItemTemplate>
-                    <DataTemplate>
-                        <TextBlock Text="{Binding ErrorContent}" Foreground="Red" FontSize="11" Margin="2,0"/>
-                    </DataTemplate>
-                </ItemsControl.ItemTemplate>
-            </ItemsControl>
+           
 
-            <TextBox x:Name="PasswordTextBox">
+            <TextBox x:Name="PasswordTextBox" Style="{DynamicResource DoctorPassword}">
                 <TextBox.Text>
                     <Binding Path="DoctorPassword" UpdateSourceTrigger="PropertyChanged" NotifyOnValidationError="True">
                         <Binding.ValidationRules>
@@ -116,14 +88,7 @@
                     </Binding>
                 </TextBox.Text>
             </TextBox>
-            <ItemsControl ItemsSource="{Binding ElementName=PasswordTextBox, Path=(Validation.Errors)}" 
-                  Style="{DynamicResource Errors}">
-                <ItemsControl.ItemTemplate>
-                    <DataTemplate>
-                        <TextBlock Text="{Binding ErrorContent}" Foreground="Red" FontSize="11" Margin="2,0"/>
-                    </DataTemplate>
-                </ItemsControl.ItemTemplate>
-            </ItemsControl>
+            
         </StackPanel>
 
         <StackPanel Grid.Row="1" Grid.ColumnSpan="2">

@@ -31,14 +31,7 @@
                     </Binding>
                 </TextBox.Text>
             </TextBox>
-            <ItemsControl ItemsSource="{Binding ElementName=idTextBox, Path=(Validation.Errors)}" 
-                      Margin="0,2,0,0">
-                <ItemsControl.ItemTemplate>
-                    <DataTemplate>
-                        <TextBlock Text="{Binding ErrorContent}" Foreground="Red" FontSize="11" Margin="2,0"/>
-                    </DataTemplate>
-                </ItemsControl.ItemTemplate>
-            </ItemsControl>
+            
 
             <Label Content="Пароль:" Style="{DynamicResource LabelPassword}"/>
             <TextBox x:Name="passwordTextBox" Style="{DynamicResource PasswordTextBox}">
@@ -50,14 +43,7 @@
                     </Binding>
                 </TextBox.Text>
             </TextBox>
-            <ItemsControl ItemsSource="{Binding ElementName=passwordTextBox, Path=(Validation.Errors)}" 
-                      Margin="0,2,0,0">
-                <ItemsControl.ItemTemplate>
-                    <DataTemplate>
-                        <TextBlock Text="{Binding ErrorContent}" Foreground="Red" FontSize="11" Margin="2,0"/>
-                    </DataTemplate>
-                </ItemsControl.ItemTemplate>
-            </ItemsControl>
+           
 
             <Button Click="SignIn" Content="Войти" Style="{DynamicResource SignInButton}"/>
         </WrapPanel>

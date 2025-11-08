@@ -11,11 +11,11 @@ namespace WPF_2
 {
     public class Doctor:INotifyPropertyChanged
     {
-        private string _name = "";
-        private string _surname = "";
-        private string _lastName = "";
-        private string _speciality = "";
-        private string _password = "";
+        private string _name = "f";
+        private string _surname = "f";
+        private string _lastName = "f";
+        private string _speciality = "f";
+        private string _password = "f";
 
 
         [JsonIgnore]

@@ -1,39 +1,70 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
-    <Style TargetType="TextBox">
-        <Setter Property="Background" Value="{DynamicResource TextBox}"/>
+    <Style x:Key="OriginalTextBox" TargetType="TextBox" BasedOn="{StaticResource MaterialDesignTextBox}">
+        
         <Setter Property="Margin" Value="5"/>
+        <Setter Property="Foreground" Value="{DynamicResource TextBox}"/>
     </Style>
 
-    <Style x:Key="TextBoxID" TargetType="TextBox">
+    <Style x:Key="TextBoxID" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
         <Setter Property="Width" Value="180"/>
-        <Setter Property="Height" Value="20"/>
+        <Setter Property="Height" Value="30"/>
         <Setter Property="HorizontalAlignment" Value="Right"/>
         <Setter Property="VerticalAlignment" Value="Center"/>
-        <Setter Property="Background" Value="{DynamicResource TextBox}"/>
+        
     </Style>
 
-    <Style x:Key="PasswordTextBox" TargetType="TextBox">
+    <Style x:Key="PasswordTextBox" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
         <Setter Property="Width" Value="180"/>
-        <Setter Property="Height" Value="20"/>
+        <Setter Property="Height" Value="30"/>
         <Setter Property="Margin" Value="10,0,10,10"/>
-        <Setter Property="Background" Value="{DynamicResource TextBox}"/>
+        
     </Style>
 
-    <Style x:Key="DiagnosisTextBox" TargetType="TextBox">
+    <Style x:Key="DiagnosisTextBox" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
         <Setter Property="Padding" Value="5"/>
-        <Setter Property="Background" Value="{DynamicResource TextBox}"/>
+      
         <Setter Property="Height" Value="60"/>
         <Setter Property="Width" Value="680"/>
     </Style>
 
-    <Style x:Key="RecomendationsTextBox" TargetType="TextBox">
+    <Style x:Key="RecomendationsTextBox" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
         <Setter Property="Padding" Value="5"/>
-        <Setter Property="Background" Value="{DynamicResource TextBox}"/>
+       
         <Setter Property="Height" Value="80"/>
         <Setter Property="Width" Value="680"/>
     </Style>
-    
-    
+
+    <Style x:Key="DoctorName" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
+        <Setter Property="Width" Value="200"/>
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="Margin" Value="0,0,0,20"/>
+    </Style>
+
+    <Style x:Key="DoctorSurname" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
+        <Setter Property="Width" Value="200"/>
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="Margin" Value="0,0,0,20"/>
+    </Style>
+
+    <Style x:Key="DoctorLastName" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
+        <Setter Property="Width" Value="200"/>
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="Margin" Value="0,0,0,20"/>
+    </Style>
+
+    <Style x:Key="DoctorSpeciality" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
+        <Setter Property="Width" Value="200"/>
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="Margin" Value="0,0,0,20"/>
+    </Style>
+
+    <Style x:Key="DoctorPassword" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
+        <Setter Property="Width" Value="200"/>
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="Margin" Value="0,0,0,20"/>
+    </Style>
+
+
 </ResourceDictionary>
