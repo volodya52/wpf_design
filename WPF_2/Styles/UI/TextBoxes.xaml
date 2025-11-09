@@ -1,10 +1,13 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
     <Style x:Key="OriginalTextBox" TargetType="TextBox" BasedOn="{StaticResource MaterialDesignTextBox}">
-        
         <Setter Property="Margin" Value="5"/>
-        <Setter Property="Foreground" Value="{DynamicResource TextBox}"/>
+        <Setter Property="Foreground" Value="{StaticResource TextBox}"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="materialDesign:HintAssist.IsFloating" Value="True"/>
+        <Setter Property="materialDesign:TextFieldAssist.HasClearButton" Value="True"/>
     </Style>
 
     <Style x:Key="TextBoxID" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
@@ -12,58 +15,66 @@
         <Setter Property="Height" Value="30"/>
         <Setter Property="HorizontalAlignment" Value="Right"/>
         <Setter Property="VerticalAlignment" Value="Center"/>
-        
     </Style>
 
     <Style x:Key="PasswordTextBox" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
         <Setter Property="Width" Value="180"/>
         <Setter Property="Height" Value="30"/>
         <Setter Property="Margin" Value="10,0,10,10"/>
-        
     </Style>
 
     <Style x:Key="DiagnosisTextBox" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
         <Setter Property="Padding" Value="5"/>
-      
         <Setter Property="Height" Value="60"/>
         <Setter Property="Width" Value="680"/>
+        <Setter Property="TextWrapping" Value="Wrap"/>
+        <Setter Property="AcceptsReturn" Value="True"/>
+        <Setter Property="VerticalScrollBarVisibility" Value="Auto"/>
     </Style>
 
     <Style x:Key="RecomendationsTextBox" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
         <Setter Property="Padding" Value="5"/>
-       
         <Setter Property="Height" Value="80"/>
         <Setter Property="Width" Value="680"/>
+        <Setter Property="TextWrapping" Value="Wrap"/>
+        <Setter Property="AcceptsReturn" Value="True"/>
+        <Setter Property="VerticalScrollBarVisibility" Value="Auto"/>
     </Style>
 
+    
     <Style x:Key="DoctorName" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
         <Setter Property="Width" Value="200"/>
         <Setter Property="Height" Value="30"/>
         <Setter Property="Margin" Value="0,0,0,20"/>
+        <Setter Property="materialDesign:HintAssist.Hint" Value="Имя"/>
     </Style>
 
     <Style x:Key="DoctorSurname" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
         <Setter Property="Width" Value="200"/>
         <Setter Property="Height" Value="30"/>
         <Setter Property="Margin" Value="0,0,0,20"/>
+        <Setter Property="materialDesign:HintAssist.Hint" Value="Фамилия"/>
     </Style>
 
     <Style x:Key="DoctorLastName" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
         <Setter Property="Width" Value="200"/>
         <Setter Property="Height" Value="30"/>
         <Setter Property="Margin" Value="0,0,0,20"/>
+        <Setter Property="materialDesign:HintAssist.Hint" Value="Отчество"/>
     </Style>
 
     <Style x:Key="DoctorSpeciality" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
         <Setter Property="Width" Value="200"/>
         <Setter Property="Height" Value="30"/>
         <Setter Property="Margin" Value="0,0,0,20"/>
+        <Setter Property="materialDesign:HintAssist.Hint" Value="Специальность"/>
     </Style>
 
     <Style x:Key="DoctorPassword" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
         <Setter Property="Width" Value="200"/>
         <Setter Property="Height" Value="30"/>
         <Setter Property="Margin" Value="0,0,0,20"/>
+        <Setter Property="materialDesign:HintAssist.Hint" Value="Пароль"/>
     </Style>
 
 

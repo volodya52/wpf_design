@@ -1,12 +1,201 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\styles\\ui\\buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\styles\\ui\\buttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\styles\\ui\\textboxes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\styles\\ui\\textboxes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\styles\\ui\\labels.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\styles\\ui\\labels.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\validators\\lettersrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\validators\\lettersrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\validators\\requiredrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\validators\\requiredrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\validators\\numericrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\validators\\numericrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Buttons.xaml",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Styles\\UI\\Buttons.xaml",
+              "RelativeDocumentMoniker": "WPF_2\\Styles\\UI\\Buttons.xaml",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Styles\\UI\\Buttons.xaml",
+              "RelativeToolTip": "WPF_2\\Styles\\UI\\Buttons.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T08:47:25.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Labels.xaml",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Styles\\UI\\Labels.xaml",
+              "RelativeDocumentMoniker": "WPF_2\\Styles\\UI\\Labels.xaml",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Styles\\UI\\Labels.xaml",
+              "RelativeToolTip": "WPF_2\\Styles\\UI\\Labels.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T08:47:03.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T08:37:53.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\App.xaml",
+              "RelativeDocumentMoniker": "WPF_2\\App.xaml",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\App.xaml*",
+              "RelativeToolTip": "WPF_2\\App.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T08:35:58.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_2\\Pages\\RegistrationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "WPF_2\\Pages\\RegistrationPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:24:47.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextBoxes.xaml",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Styles\\UI\\TextBoxes.xaml",
+              "RelativeDocumentMoniker": "WPF_2\\Styles\\UI\\TextBoxes.xaml",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Styles\\UI\\TextBoxes.xaml",
+              "RelativeToolTip": "WPF_2\\Styles\\UI\\TextBoxes.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T08:22:56.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RequiredRule.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Validators\\RequiredRule.cs",
+              "RelativeDocumentMoniker": "WPF_2\\Validators\\RequiredRule.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Validators\\RequiredRule.cs",
+              "RelativeToolTip": "WPF_2\\Validators\\RequiredRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:22:18.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NumericRule.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Validators\\NumericRule.cs",
+              "RelativeDocumentMoniker": "WPF_2\\Validators\\NumericRule.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Validators\\NumericRule.cs",
+              "RelativeToolTip": "WPF_2\\Validators\\NumericRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:22:16.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LettersRule.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Validators\\LettersRule.cs",
+              "RelativeDocumentMoniker": "WPF_2\\Validators\\LettersRule.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Validators\\LettersRule.cs",
+              "RelativeToolTip": "WPF_2\\Validators\\LettersRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:22:04.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Doctor.cs",
+              "RelativeDocumentMoniker": "WPF_2\\Doctor.cs",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Doctor.cs",
+              "RelativeToolTip": "WPF_2\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T08:05:06.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Pages\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "WPF_2\\Pages\\RegistrationPage.xaml",
+              "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Pages\\RegistrationPage.xaml",
+              "RelativeToolTip": "WPF_2\\Pages\\RegistrationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T08:04:17.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

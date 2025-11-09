@@ -31,7 +31,7 @@ namespace WPF_2.Pages
         private Doctor doctor = new Doctor( );
         public Registration()
         {
-            
+            doctor = new Doctor( );
             InitializeComponent();
             DataContext = doctor;
         }

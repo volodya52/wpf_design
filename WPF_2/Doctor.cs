@@ -7,7 +7,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace WPF_2
+namespace WPF_2.Pages
 {
     public class Doctor:INotifyPropertyChanged
     {
