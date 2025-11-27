@@ -8,7 +8,7 @@
         Background="{DynamicResource Background}"
         Title="MainWindow" Height="730" Width="970">
     <DockPanel>
-        <Menu Style="{DynamicResource MenuBackground}">
+        <Menu>
             <MenuItem Header="Настройки">
                 <MenuItem Header="Сменить тему" Click="ChangeThemeMenuItem_Click"/>
             </MenuItem>

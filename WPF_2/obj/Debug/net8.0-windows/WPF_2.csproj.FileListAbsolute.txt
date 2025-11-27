@@ -409,7 +409,6 @@ C:\Users\pluhi\OneDrive\Desktop\fdv\WPF_2\obj\Debug\net8.0-windows\Pages\Setting
 C:\Users\pluhi\OneDrive\Desktop\fdv\WPF_2\obj\Debug\net8.0-windows\Pages\SignInPage.g.cs
 C:\Users\pluhi\OneDrive\Desktop\fdv\WPF_2\obj\Debug\net8.0-windows\Pages\StartPriem.g.cs
 C:\Users\pluhi\OneDrive\Desktop\fdv\WPF_2\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\pluhi\OneDrive\Desktop\fdv\WPF_2\obj\Debug\net8.0-windows\WPF_2_Content.g.cs
 C:\Users\pluhi\OneDrive\Desktop\fdv\WPF_2\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\pluhi\OneDrive\Desktop\fdv\WPF_2\obj\Debug\net8.0-windows\WPF_2_MarkupCompile.cache
 C:\Users\pluhi\OneDrive\Desktop\fdv\WPF_2\obj\Debug\net8.0-windows\WPF_2_MarkupCompile.lref

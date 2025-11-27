@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pgCyupVGsuE=",
+  "dgSpecHash": "tq1FHkCPPws=",
   "success": true,
   "projectFilePath": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\WPF_2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pluhi\\.nuget\\packages\\materialdesigncolors\\5.3.0\\materialdesigncolors.5.3.0.nupkg.sha512",
-    "C:\\Users\\pluhi\\.nuget\\packages\\materialdesignthemes\\5.3.0\\materialdesignthemes.5.3.0.nupkg.sha512",
-    "C:\\Users\\pluhi\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512"
+    "C:\\Users\\pluhi\\.nuget\\packages\\materialdesigncolors\\5.2.1\\materialdesigncolors.5.2.1.nupkg.sha512",
+    "C:\\Users\\pluhi\\.nuget\\packages\\materialdesignthemes\\5.2.1\\materialdesignthemes.5.2.1.nupkg.sha512",
+    "C:\\Users\\pluhi\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
   ],
   "logs": []
 }

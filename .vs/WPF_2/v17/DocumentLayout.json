@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\styles\\ui\\textboxes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\styles\\ui\\textboxes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\styles\\ui\\labels.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\styles\\ui\\labels.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -13,18 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\styles\\ui\\textboxes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\styles\\ui\\textboxes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\styles\\ui\\labels.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|solutionrelative:wpf_2\\styles\\ui\\labels.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9738F0ED-A2EA-4D2E-BDDE-9C57BF621FCA}|WPF_2\\WPF_2.csproj|c:\\users\\pluhi\\onedrive\\desktop\\fdv\\wpf_2\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Buttons.xaml",
               "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Styles\\UI\\Buttons.xaml",
               "RelativeDocumentMoniker": "WPF_2\\Styles\\UI\\Buttons.xaml",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Labels.xaml",
               "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Styles\\UI\\Labels.xaml",
               "RelativeDocumentMoniker": "WPF_2\\Styles\\UI\\Labels.xaml",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPF_2\\MainWindow.xaml",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\App.xaml",
               "RelativeDocumentMoniker": "WPF_2\\App.xaml",
@@ -112,14 +112,14 @@
               "RelativeDocumentMoniker": "WPF_2\\Pages\\RegistrationPage.xaml.cs",
               "ToolTip": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Pages\\RegistrationPage.xaml.cs",
               "RelativeToolTip": "WPF_2\\Pages\\RegistrationPage.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T08:24:47.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TextBoxes.xaml",
               "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Styles\\UI\\TextBoxes.xaml",
               "RelativeDocumentMoniker": "WPF_2\\Styles\\UI\\TextBoxes.xaml",
@@ -183,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "RegistrationPage.xaml",
               "DocumentMoniker": "C:\\Users\\pluhi\\OneDrive\\Desktop\\fdv\\WPF_2\\Pages\\RegistrationPage.xaml",
               "RelativeDocumentMoniker": "WPF_2\\Pages\\RegistrationPage.xaml",

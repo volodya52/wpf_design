@@ -6,8 +6,7 @@
         <Setter Property="Margin" Value="5"/>
         <Setter Property="Foreground" Value="{StaticResource TextBox}"/>
         <Setter Property="VerticalContentAlignment" Value="Center"/>
-        <Setter Property="materialDesign:HintAssist.IsFloating" Value="True"/>
-        <Setter Property="materialDesign:TextFieldAssist.HasClearButton" Value="True"/>
+       
     </Style>
 
     <Style x:Key="TextBoxID" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
@@ -46,28 +45,28 @@
         <Setter Property="Width" Value="200"/>
         <Setter Property="Height" Value="30"/>
         <Setter Property="Margin" Value="0,0,0,20"/>
-        <Setter Property="materialDesign:HintAssist.Hint" Value="Имя"/>
+       
     </Style>
 
     <Style x:Key="DoctorSurname" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
         <Setter Property="Width" Value="200"/>
         <Setter Property="Height" Value="30"/>
         <Setter Property="Margin" Value="0,0,0,20"/>
-        <Setter Property="materialDesign:HintAssist.Hint" Value="Фамилия"/>
+        
     </Style>
 
     <Style x:Key="DoctorLastName" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
         <Setter Property="Width" Value="200"/>
         <Setter Property="Height" Value="30"/>
         <Setter Property="Margin" Value="0,0,0,20"/>
-        <Setter Property="materialDesign:HintAssist.Hint" Value="Отчество"/>
+        
     </Style>
 
     <Style x:Key="DoctorSpeciality" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
         <Setter Property="Width" Value="200"/>
         <Setter Property="Height" Value="30"/>
         <Setter Property="Margin" Value="0,0,0,20"/>
-        <Setter Property="materialDesign:HintAssist.Hint" Value="Специальность"/>
+       
     </Style>
 
     <Style x:Key="DoctorPassword" TargetType="TextBox" BasedOn="{StaticResource OriginalTextBox}">
